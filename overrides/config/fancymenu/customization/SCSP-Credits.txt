@@ -10,7 +10,13 @@ customization-meta {
 
 customization {
   action = setscale
-  scale = 3
+  scale = 2
+}
+
+customization {
+  baseheight = 1050
+  action = autoscale
+  basewidth = 1680
 }
 
 customization {
@@ -72,13 +78,13 @@ customization {
 customization {
   orientation = mid-centered
   shadow = true
-  x = -145
+  x = -97
   action = addtext
   actionid = dc2d4e7c-6cd0-4d4a-b43e-99fa36326bdf1650025471315
-  y = 14
+  y = 10
   scale = 1.0
   alignment = left
-  value = For full credits read the credit.txt or in game manual
+  value = For full credits read the credit.txt
 }
 
 customization {
@@ -114,6 +120,18 @@ customization {
   y = -56
   scale = 1.0
   alignment = left
-  value = Eric Skiff - Behind the waterfall..  - Resistor Anthems
+  value = Eric Skiff - Underclocked - Resistor Anthems
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = -66
+  action = addtext
+  actionid = 02eeb724-075f-45df-95fd-76964c30cb5e1652985974878
+  y = 22
+  scale = 1.0
+  alignment = left
+  value = or in the online manual
 }
 

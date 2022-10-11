@@ -1,8 +1,8 @@
 ---
-SquirrelPAK
+SquirrelPAK AVP
 ---
 
-SquirrelPAK 
+SquirrelPAK Almost Vanilla PLUS!
 
 For a list of mods check out the Wiki
 

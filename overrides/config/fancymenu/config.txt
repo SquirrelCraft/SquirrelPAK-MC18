@@ -10,7 +10,7 @@ B:enablehotkeys = 'false';
 B:playmenumusic = 'false';
 B:showdebugwarnings = 'false';
 [Sets the default GUI scale on first launch. Useful for modpacks. Cache data is saved in '/mods/fancymenu/'.]
-I:defaultguiscale = '2';
+I:defaultguiscale = '3';
 
 
 ##[customization]
@@ -21,7 +21,7 @@ B:showcustomizationbuttons = 'false';
 
 ##[mainmenu]
 
-B:hidebranding = 'false';
+B:hidebranding = 'true';
 B:hidelogo = 'true';
 B:hiderealmsnotifications = 'true';
 B:hideforgenotifications = 'true';
@@ -51,7 +51,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'SquirrelPAK - AV';
+S:customwindowtitle = 'SquirrelPAK - AVP';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 

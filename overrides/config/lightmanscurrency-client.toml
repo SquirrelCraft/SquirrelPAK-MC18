@@ -1,0 +1,57 @@
+
+#Client configuration settings
+[client]
+
+	#Quality Settings
+	[client.settings]
+		#How many items the traders should render as stock. Useful to avoid lag in trader-rich areas.
+		#FULL: Renders all items based on stock as intended.
+		#PARTIAL: Renders only 1 item per trade slot regardless of stock.
+		#NONE: Traders do not render items.
+		#Allowed Values: FULL, PARTIAL, NONE
+		traderRenderType = "FULL"
+
+	#Wallet Slot Settings
+	[client.wallet_slot]
+		#The x position that the wallet slot will be placed at in the players inventory.
+		#Range: -255 ~ 255
+		slotX = 76
+		#The y position that the wallet slot will be placed at in the players inventory.
+		#Range: -255 ~ 255
+		slotY = 43
+		#The x position that the wallet slot will be placed at in the players creative inventory.
+		#Range: -255 ~ 255
+		creativeSlotX = 126
+		#The y position that the wallet slot will be placed at in the players creative inventory.
+		#Range: -255 ~ 255
+		creativeSlotY = 19
+		#The x offset that the wallet button should be placed at relative to the wallet slot position.
+		#Range: -255 ~ 255
+		buttonX = 8
+		#The y offset that the wallet button should be placed at relative to the wallet slot position.
+		#Range: -255 ~ 255
+		buttonY = -10
+
+	#Notification Button Settings
+	[client.notification_button]
+		#Where the notification button should be offset from.
+		#Allowed Values: SCREEN_TOP_LEFT, SCREEN_TOP_RIGHT, SCREEN_BOTTOM_LEFT, SCREEN_BOTTOM_RIGHT, MENU_TOP_LEFT, MENU_TOP_RIGHT, MENU_BOTTOM_LEFT, MENU_BOTTOM_RIGHT
+		notificationButtonCorner = "MENU_TOP_RIGHT"
+		#The x offset from the offset corner that the notification button will be placed at in the players inventory.
+		#Range: > -2147483648
+		notificationButtonX = -20
+		#The y offset from the offset corner that the notification button will be placed at in the players inventory.
+		#Range: > -2147483648
+		notificationButtonY = -20
+		#The x offset from the offset corner that the notification button will be placed at in the players creative inventory.
+		#Range: > -2147483648
+		notificationButtonCreativeX = -20
+		#The y offset from the offset corner that the notification button will be placed at in the players creative inventory.
+		#Range: > -2147483648
+		notificationButtonCreativeY = -70
+
+	#Notification Settings
+	[client.notification]
+		#Whether notifications should be posted in your chat when you receive them.
+		notificationsInChat = true
+
