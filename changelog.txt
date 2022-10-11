@@ -1,21 +1,102 @@
 ================================================================================
-SquirrelPAK AV - Almost Vanilla PLUS!
+SquirrelPAK TEC - TelEcommuniCations
 Change Log
 
-SquirrelPAK AVP - v1.0.1
-File Version 1.18.2+1.0.1
+SquirrelPAK TEC - v1.0.0
+File Version 1.18.2+1.0.0
 ================================================================================
 
-Just a Patch Update 
+TEC Time Today Update
+
+This update to SquirrelPAK TEC (TelEcommuniCations) marks release v1.0!
+
+Updated all mods that had updates, and fixed server config version number. Also tweaked some server config files.
 
 
-Updated any mods that needed updates, updated the in game manual.
+We now have a FaceBook page! Will be posting updates and other stuff there. Feel free to drop in, like the page and be part of the converstation. That means you Steve and Alex!
+
+FaceBook Page:
+https://www.FaceBook.com/SquirrelCraftMP
+
+FaceBook Group
+https://www.facebook.com/groups/squirrelcraft
+
 
 
 Known Issues:
-There is one known issue and that is with the options.txt file. There are issues with the mods I usually use so until we get that fix I will ship a options  file. Before updating to new versions if you make changes to your options file  make a backup copy first and replace it after updating. 
+
+We have disabled the loading music due to crashes, If you experience crashes please open an issue!
+
+There is an issue that is with the options.txt file. There are issues
+with the mods I usually use so until we get that fix I will ship a options 
+file. Before updating to new versions if you make changes to your options file 
+ make a backup copy first and replace it after updating. 
+ 
 
 
+Added:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+fm_audio_extension_forge_1.1.0_MC_1.18-1.18.2
+cc-tweaked-1.18.2-1.100.6
+CreativeCore_FORGE_v2.6.10_mc1.18.2
+geckolib-forge-1.18-3.0.24
+lightmanscurrency-1.18.2-1.1.4.2a
+mcjtylib-1.18-6.0.15
+CraftTweaker-forge-1.18.2-9.1.153
+rftoolsbase-1.18-3.0.9
+selene-1.18.2-1.17.5
+voicechat-forge-1.18.2-2.2.45
+sophisticatedbackpacks-1.18.2-3.17.4.592
+sophisticatedcore-1.18.2-0.3.1.39
+supplementaries-1.18.2-1.4.3
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+
+
+
+================================================================================
+SquirrelPAK TEC - TelEcommuniCations
+Change Log
+
+SquirrelPAK TEC - Beta 5
+File Version 1.18.2+0.0.5
+================================================================================
+
+SquirreBook Update
+
+This update to SquirrelPAK TEC (TelEcommuniCations) we have updated the mods that have updates and we fixed the menu music crashing by disabling the loading screen music. I know strange right? Anyway, menu music is back just have no loading beats. 
+
+We now have a FaceBook page! Will be posting updates and other stuff there. Feel free to drop in, like the page and be part of the converstation. That means you Steve and Alex!
+
+FaceBook Page:
+https://www.FaceBook.com/SquirrelCraftMP
+
+FaceBook Group
+https://www.facebook.com/groups/squirrelcraft
+
+
+Known Issues:
+
+We have disabled the loading music due to crashes, If you experience crashes please open an issue!
+
+There is an issue that is with the options.txt file. There are issues
+with the mods I usually use so until we get that fix I will ship a options 
+file. Before updating to new versions if you make changes to your options file 
+ make a backup copy first and replace it after updating. 
+ 
 
 
 Added:
@@ -27,27 +108,74 @@ N/A
 Updated:
 ------------------------------------------- 
 architectury-4.4.70
-fm_audio_extension_forge_1.1.0_MC_1.18-1.18.2
 Bookshelf-Forge-1.18.2-13.2.20
 collective-1.18.2-4.28
 CraftTweaker-forge-1.18.2-9.1.153
-CreativeCore_FORGE_v2.6.10_mc1.18.2
 ftb-chunks-forge-1802.3.6-build.147
 ftb-library-forge-1802.3.6-build.123
-functionalstorage-1.18.2-0.0.17
-geckolib-forge-1.18-3.0.24
 guardvillagers-1.18.2.1.4.3
-journeymap-1.18.2-5.8.5-forge
-lightmanscurrency-1.18.2-1.1.4.2a
-Mantle-1.18.2-1.9.26
-selene-1.18.2-1.17.7
-voicechat-forge-1.18.2-2.2.45
-sophisticatedbackpacks-1.18.2-3.17.4.592
-sophisticatedcore-1.18.2-0.3.1.39
+laserio-1.1.1
+lightmanscurrency-1.18.2-1.1.4.2
+selene-1.18.2-1.17.4
 spark-1.9.11-forge
-supplementaries-1.18.2-1.4.3
-The_Graveyard_1.9_(FORGE)_for_1.18.2
+supermartijn642configlib-1.1.3-forge-mc1.18
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+
+
+================================================================================
+SquirrelPAK TEC - TelEcommuniCations
+Change Log
+
+SquirrelPAK TEC - Beta 4
+File Version 1.18.2+0.0.4
+================================================================================
+
+Storage, Power and Other Worldly Dimensions Update
+
+This update to SquirrelPAK TEC (TelEcommuniCations) we have the Storage, Power and Other Small Dimensions Update! We updated mods that had updates, added   Refine Storage (Newtwork_Squirrels favorite), and to power it Solar Flux Reborn!  Also threw in Entangled, and Compact Machines.
+
+Fixed:
+The default server config folder was missing... We opened an internal investigation to see which squirrel stashed them away.
+
+Known Issues:
+Had to disable the menu music. Not sure what is going on but we had crashes and it seemed to be from the FancyMenu. So the music is disabled until we can talk with the mod owner. If you experience crashes please open an issue!
+
+There is an issue that is with the options.txt file. There are issues
+with the mods I usually use so until we get that fix I will ship a options 
+file. Before updating to new versions if you make changes to your options file 
+ make a backup copy first and replace it after updating. 
+ 
+
+
+Added:
+------------------------------------------- 
+SolarFluxReborn-1.18.2-18.2.4
+refinedstorage-1.10.2
+refinedstorageaddons-0.8.2
+rsrequestify-2.2.0
+entangled-1.3.11-forge-mc1.18
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+CraftTweaker-forge-1.18.2-9.1.150
+functionalstorage-1.18.2-0.0.17
 titanium-1.18.2-3.5.6-38
+geckolib-1.18-forge-3.0.22
+journeymap-1.18.2-5.8.5-forge
+selene-1.18.2-1.17.3
+sophisticatedcore-1.18.2-0.2.8.35
+supplementaries-1.18.2-1.4.2
+The_Graveyard_1.9_(FORGE)_for_1.18.2
 ------------------------------------------- 
 
 
@@ -58,217 +186,19 @@ N/A
 
 
 
-
 ================================================================================
-SquirrelPAK AV - Almost Vanilla PLUS!
+SquirrelPAK TEC - TelEcommuniCations
 Change Log
 
-SquirrelPAK AVP - v1.0.0
-File Version 1.18.2+1.0.0
+SquirrelPAK TEC - Beta 3
+File Version 1.18.2+0.0.3
 ================================================================================
 
-We Made It! Update 
+Can you hear me now? Open Beta
 
-This is the first production release!
+Welcome to SquirrelPAK TEC (TelEcommuniCations). Featuring Redstone, Networks, & Computers built on the SquirrelPAK AVP (Almost Vanilla Plus) Pack. We added Redstone mods like Tiny Redstone and other, network mods Xnet and LaserIO and to control them all, CCTweaked for your computer needs. For the full list see the wiki on the github page.
 
-Updated any mods that needed to, updated game manual to include new mod pack. You should check those out! Also added another Macaw mod to complete the set
-
-
-Known Issues:
-There is one known issue and that is with the options.txt file. There are issues
-with the mods I usually use so until we get that fix I will ship a options 
-file. Before updating to new versions if you make changes to your options file 
- make a backup copy first and replace it after updating. 
-
-
-
-
-Added:
-------------------------------------------- 
-mcw-paths-1.0.0-mc1.18.2
-------------------------------------------- 
-
-
-Updated:
-------------------------------------------- 
-advancednetherite-1.12.3-1.18.2
-CraftTweaker-forge-1.18.2-9.1.148
-fancymenu_forge_2.7.2-1_MC_1.18.2
-geckolib-1.18-forge-3.0.20
-mcw-fences-1.0.5-mc1.18.2
-selene-1.18.2-1.17.1
-titanium-1.18.2-3.5.5-37
-supplementaries-1.18.2-1.4.1
-------------------------------------------- 
-
-
-Removed:
-------------------------------------------- 
-N/A
-------------------------------------------- 
-
-
-
-
-
-
-
-================================================================================
-SquirrelPAK AV - Almost Vanilla PLUS!
-Change Log
-
-SquirrelPAK AVP - RC1
-File Version 1.18.2+0.5.1
-================================================================================
-
-Are We There Yet? Update 
-
-This is Release Candidate #1.  All mods that had fixes have been updated
-
-Fixed an issue where crash utilities where causing a crash... Ummm my bad.
-
-After looking at both drawers mods we are going to keep them both. 
-
-
-Known Issues:
-There is one known issue and that is with the options.txt file. There are issues
-with the mods I usually use so until we get that fix I will ship a options 
-file. Before updating to new versions if you make changes to your options file 
- make a backup copy first and replace it after updating. 
-
-
-
-
-Added:
-------------------------------------------- 
-N/A
-------------------------------------------- 
-
-
-Updated:
-------------------------------------------- 
-advancednetherite-1.12.0-1.18.2
-CraftTweaker-forge-1.18.2-9.1.146
-enchantmenttransfer-0.0.4-1.18.2
-extremesoundmuffler-3.27_forge-1.18.x
-FramedBlocks-5.2.1
-geckolib-1.18-forge-3.0.19
-MapFrontiers-1.18.2-2.2.0
-selene-1.18.2-1.16.6
-sophisticatedcore-1.18.2-0.2.6.30
-titanium-1.18.2-3.5.4-36
-toms_storage-1.18.2-1.3.2
-drippyloadingscreen_forge_1.6.3_MC_1.18-1.18.2
-------------------------------------------- 
-
-
-Removed:
-------------------------------------------- 
-N/A
-------------------------------------------- 
-
-
-
-
-
-
-
-================================================================================
-SquirrelPAK AV - Almost Vanilla PLUS!
-Change Log
-
-SquirrelPAK AVP - Beta 4
-File Version 1.18.2+0.4.0
-================================================================================
-
-Check Ya Drawers Update 
-
-In this update we fixed Issue #2 tindril pearls were not able to be used in some 
-mods. Added a way to convert one to the other. Also changed the recipe for 
-rotten flesh to leather to only use sticks and not a item frame.
-
-Saw a remake of storage drawers called Functional Storage. It looks cool and the
-fact that you do not have to have them touching from the controller looks 
-awesome! So I have added that as well. We may remove Storage Drawers in later
-if we think it's better.
-
-Also added Ender Mail, a way to ship stuff around your world, thought that could
-be a cool way to send stuff to your friends or to your new base 1000 blocks 
-away.
-
-Updated mods that had fixes
-
-Last, in order to keep this mod pack going on and not have to rename after every 
-update to Minecraft the pack version will start with the Minecraft version then
-the pack version. This way we can release updated versions of the packs on the 
-same mod pack page. 
-
-Known Issues:
-There is one known issue and that is with the options.txt file. There are issues
-with the mods I usually use so until we get that fix I will ship a options 
-file. Before updating to new versions if you make changes to your options file 
- make a backup copy first and replace it after updating. 
-
-
-
-
-Added:
-------------------------------------------- 
-EnderMail-1.18.2-1.2.4
-functionalstorage-1.18.2-0.0.15
-------------------------------------------- 
-
-
-Updated:
-------------------------------------------- 
-AdChimneys-1.18.2-8.2.0.0-build.0935
-architectury-4.4.68
-fm_audio_extension_forge_1.0.1_MC_1.18-1.18.2
-CraftTweaker-forge-1.18.2-9.1.144
-crashutilities-4.1
-drippyloadingscreen_forge_1.6.2_MC_1.18-1.18.2
-extremesoundmuffler-3.25_forge-1.18.x
-farsight-1.18.2-1.9
-ForgeEndertech-1.18.2-9.0.2.0-build.0935
-framedcompactdrawers-1.18-4.1.0
-FramedBlocks-5.2.0
-JustEnoughResources-1.18.2-0.14.1.170
-lightmanscurrency-1.18.2-1.1.4.1
-lootr-1.18.2-0.2.17.54
-Patchouli-1.18.2-69
-selene-1.18.2-1.16.4
-SimpleBackups-1.18.2-1.1.8
-sophisticatedbackpacks-1.18.2-3.17.2.588
-sophisticatedcore-1.18.2-0.2.5.28
-StorageDrawers-1.18.2-10.2.1
-The_Graveyard_1.8_(FORGE)_for_1.18.2
-------------------------------------------- 
-
-
-Removed:
-------------------------------------------- 
-N/A
-------------------------------------------- 
-
-
-
-
-
-
-================================================================================
-SquirrelPAK AV - Almost Vanilla PLUS!
-Change Log
-
-SquirrelPAK AVP - Beta 3
-File Version 0.3.0+1.18.2
-================================================================================
-
-The Oops Update 
-
-In this quick patch we forgot to configure a mod that is kind of important for
-our servers. I blame the Q/A Squirrels I will deal with them later. Be sure to 
-check out the changes for Beta 2. While this was being worked on we had a few
-mods that were updated so we threw them into this one as well.
+This mod pack will be the base on all the tech mods we will be releasing later in the year so be sure to check the change logs and in game manual for the release of those packs.
 
 
 
@@ -280,69 +210,22 @@ file. Before updating to new versions if you make changes to your options file
 
 
 
-
-Added:
-------------------------------------------- 
-N/A
-------------------------------------------- 
-
-
-Updated:
-------------------------------------------- 
-architectury-4.4.61
-ftb-ranks-forge-1802.1.8-build.34
-selene-1.18.2-1.16.2
-guardvillagers-1.18.2.1.4.2
-------------------------------------------- 
-
-
-Removed:
-------------------------------------------- 
-N/A
-------------------------------------------- 
-
-
-
-
-
-
-
-================================================================================
-SquirrelPAK AV - Almost Vanilla PLUS!
-Change Log
-
-SquirrelPAK AV+ - Beta 2
-File Version 0.2.0+1.18.2
-================================================================================
-
-The Money Update 
-
-In this update we have included more server settings and tweaked 
-lightmanscurrency config. We have enabled melting coins down to ingots in the 
-coin press. Because of this, coins can be treated as resources. We have tweaked
-the worth of each coin based on this, as well as tweaking recipes of the ATM and
-coin press. Coin values are as follows: N=32, D=32e, E=2g, G=2i, I=100c, C=1c.
-
-
-
-
-Known Issues:
-There is one known issue and that is with the options.txt file. There are issues
-with the mods I usually use so until we get that fix I will ship a options 
-file. Before updating to new versions if you make changes to your options file 
- make a backup copy first and replace it after updating. 
-
-
+# Note we are only showing changed from the base mod pack SquirrelPAK AVP v1.18.2+1.0.0. See change log for that mod pack to see all the other mod changes. 
 
 
 Added:
 ------------------------------------------- 
-AI-Improvements-1.18.2-0.5.0
-bwncr-3.13.21
-Iceberg-1.18.2-1.0.44
-lightmanscurrency-1.18.2-1.1.3.5
-supplementaries-1.18.2-1.4.0
-selene-1.18.2-1.16.1
+cc-tweaked-1.18.2-1.100.5
+xnet-1.18-4.0.5
+laserio-1.0.3
+rangedwirelessredstone-1.18-2.0.1
+redstonepen-1.18.2-1.0.10
+SuperCircuitMaker2-0.2.9+1.18.2
+tinyredstone-1.18.2-3.2.0
+tinygates-2.0.0
+wlrs-1.12.0-1.18.2
+tinypipes-2.0.2
+rsgauges-1.18.2-1.2.16
 ------------------------------------------- 
 
 
@@ -357,195 +240,3 @@ Removed:
 N/A
 ------------------------------------------- 
 
-
-
-
-
-
-
-
-
-
-================================================================================
-SquirrelPAK AV - Almost Vanilla PLUS!
-Change Log
-================================================================================
-
-This is the first open beta release! 
-
-Known Issues:
-There is one known issue and that is with the options.txt file. There are issues with the mods I usually use so until we get that fix I will ship a options file. Before updating to new versions if you make changes to your options file make a backup copy first and replace it after updating. 
-
-
-
-SquirrelPAK AV+ - Beta 1
-================================================================================
-File Version 0.1.0+1.18.2
-
-
-
-Added:
-------------------------------------------- 
-AdChimneys-1.18.2-8.1.0.0-build.0767
-AdFinders-1.18.2-7.0.0.0-build.0342
-advancednetherite-1.11.1-1.18.2
-AdvancementPlaques-1.18.2-1.4.3
-AI-Improvements-1.18-0.4.0
-alexsdelight-1.18.2-1.2.3
-alexsmobs-1.18.3
-AmbientSounds_FORGE_v5.0.16_mc1.18.2
-appleskin-forge-mc1.18-2.4.0
-architectury-4.4.60
-areas_1.18.2-2.9
-AutoRegLib-1.7-53
-auudio_forge_1.0.3_MC_1.18-1.18.2
-balm-3.0.3+0
-BetterAdvancements-1.18.2-0.2.0.129
-BetterCompatibilityChecker-1.1.14-build.26+mc1.18.2
-biomeinfo-1.18.2-1.4
-Bookshelf-Forge-1.18.2-13.0.13
-bwncr-3.12.20
-caelus-forge-1.18.1-3.0.0.2
-ceilingtorch-1.18.2-1.18
-chalk-1.18.2-1.2.1
-citadel-1.11.3-1.18.2
-cloth-config-6.2.62-forge
-Clumps-forge-1.18.2-8.0.0+8
-collective-1.18.2-4.25
-Compressium-1.4.1-build.5+mc1.18.2
-configured-1.5.3-1.18.2
-constructionwand-1.18.2-2.7
-Controlling-forge-1.18.2-9.0+19
-corn_delight-1.0.4-1.18.2
-corpse-1.18.2-1.0.1
-CraftTweaker-forge-1.18.2-9.1.140
-crashutilities-4.0
-CreativeCore_FORGE_v2.6.9_mc1.18.2
-curioofundying-forge-1.18-5.3.0.0
-curios-forge-1.18.2-5.0.7.0
-curiouselytra-forge-1.18.1-5.0.1.0
-customizableelytra-1.18.2-1.6.5
-DrawersTooltip-1.18.2-forge-5.0.0
-drippyloadingscreen_forge_1.6.1_MC_1.18-1.18.2
-DungeonCrawl-1.18.2-2.3.8
-EasierSleeping-1.18.2-2.1.0
-easy_villagers-1.18.2-1.0.5
-eccentrictome-1.18.2-1.2.1
-EditSign-1.18.2-2.3.1
-elevatorid-1.18.2-1.8.4
-EnchantmentDescriptions-Forge-1.18.2-10.0.3
-enchantmenttransfer-0.0.3-1.18.2
-ender-tendril-1.18.2-1.4.0
-enderchests-1.18-1.9.5
-endertanks-1.18-1.11.6
-EquipmentCompare-1.18.1-1.2.12
-exlinecopperequipment-forge-1.18.2-v2.0.1
-ExplorersCompass-1.18.2-1.2.1-forge
-extremeSoundMuffler-3.24_Forge-1.18.1
-fancymenu
-fancymenu_forge_2.7.2_MC_1.18.2
-FarmersDelight-1.18.2-1.1.1
-FarmersRespite-1.18.2-1.2.0
-farsight-1.18.2-1.8
-FastLeafDecay-28
-feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2
-fm_audio_extension_forge_1.0.0_MC_1.18-1.18.2
-ForgeEndertech-1.18.2-9.0.1.0-build.0767
-FramedBlocks-5.1.1-hotfix
-framedcompactdrawers-1.18-4.0.2
-ftb-chunks-forge-1802.3.6-build.145
-ftb-essentials-1802.1.7-build.42
-ftb-library-forge-1802.3.6-build.119
-ftb-quests-forge-1802.3.8-build.101
-ftb-ranks-forge-1802.1.7-build.27
-ftb-teams-forge-1802.2.6-build.51
-geckolib-1.18-forge-3.0.18
-guardvillagers-1.18.2.1.4.1
-honeyexpansion-1.1.1
-Iceberg-1.18.2-1.0.42
-ironchests-2.0.2-forge
-item-filters-forge-1802.2.7-build.27
-ItShallNotTick-1.0.20-build.21
-jei-1.18.2-9.5.5.174
-JEITweaker-1.18.2-3.0.0.8
-journeymap-1.18.2-5.8.4-forge
-JustEnoughProfessions-1.18.2-1.2.2
-JustEnoughResources-1.18.2-0.14.1.167
-konkrete_forge_1.3.3_MC_1.18-1.18.1
-light-overlay-6.0.5-forge
-lightmanscurrency-1.18.2-1.1.3.4
-lootr-1.18.2-0.2.16.52
-Mantle-1.18.2-1.9.20
-MapFrontiers-1.18.2-2.1.4
-mcw-bridges-2.0.3-mc1.18.2
-mcw-doors-1.0.6-mc1.18.2
-mcw-fences-1.0.4-mc1.18.2
-mcw-furniture-3.0.0-mc1.18.2
-mcw-lights-1.0.3-mc1.18.2
-mcw-paintings-1.0.3-mc1.18.2
-mcw-roofs-2.1.2-mc1.18.2
-mcw-trapdoors-1.0.5-mc1.18.2
-mcw-windows-2.0.3-mc1.18.2
-Measurements-1.18-1.2
-MineMenu-1.18-1.10.0
-mmlib-1.0.2-1.18.2
-morevillagers-FORGE-1.18.2-3.2.0
-Morph-o-Tool-1.5-32
-MouseTweaks-forge-mc1.18-2.21
-NaturesCompass-1.18.2-1.9.5-forge
-NekosEnchantedBooks-1.18.2-1.7.0
-netherportalfix-forge-1.18-9.0.0
-NethersDelight-1.18.2-2.2.0
-oauth-1.1.13-1.18.2
-OpenLoader-Forge-1.18.2-12.0.1
-Ore Creeper-1.18.2-1.1.8
-panoramica_forge_1.1.2_MC_1.18-1.18.1
-Patchouli-1.18.2-67
-Placebo-1.18.2-6.4.0
-randomvillagenames_1.18.2-1.6
-realisticbees_1.18.2-2.5
-seamless_loading_screen-1.18-3.0.0
-selene-1.18.2-1.15.8
-serverconfigupdater-2.0
-ServerTabInfo-1.18.2-1.3.5
-shetiphiancore-1.18-3.10.9
-shutupexperimentalsettings-1.0.5
-SimpleBackups-1.18.2-1.1.7
-sleeping_bags-1.18.2-1.0.1
-sophisticatedbackpacks-1.18.2-3.16.4.584
-sophisticatedcore-1.18.2-0.1.0.19
-spark-1.9.1-forge
-spyglass_improvements-1.2+mc1.18.x+forge
-stackrefill_1.18.2-2.1
-starterkit_1.18.2-3.2
-StorageDrawers-1.18.2-10.2.0
-supplementaries-1.18.2-1.3.7
-TConstruct-1.18.2-3.5.0.17
-Terralith_v2.2.1a
-The_Graveyard_1.7_(FORGE)_for_1.18.2
-theoneprobe-1.18-5.1.0
-time-in-a-bottle-2.1.0-mc1.18.1
-TipTheScales-forge-1.18.2-5.0.6
-ToastControl-1.18.2-6.0.2
-toms_storage-1.18.2-1.3.1
-trashslot-forge-1.18.1-11.0.2
-vanillaplustools-1.18.2-1.0
-villagernames_1.18.2-3.5
-villagespawnpoint_1.18.2-1.9
-voicechat-forge-1.18.2-2.2.32
-waystones-forge-1.18.2-10.0.0
-WorldPreGenerator-1.18.2-2.0.1
-xptome-1.18.2-2.1.5
-------------------------------------------- 
-
-
-Updated:
-------------------------------------------- 
-N/A
-------------------------------------------- 
-
-
-Removed:
-------------------------------------------- 
-N/A
-------------------------------------------- 

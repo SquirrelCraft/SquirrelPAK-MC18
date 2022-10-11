@@ -1,8 +1,8 @@
 ---
-SquirrelPAK AVP
+SquirrelPAK TEC
 ---
 
-SquirrelPAK Almost Vanilla PLUS!
+SquirrelPAK TelEcommuniCations
 
 For a list of mods check out the Wiki
 

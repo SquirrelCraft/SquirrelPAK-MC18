@@ -15,15 +15,15 @@ customization {
 
 customization {
   orientation = top-left
-  audio_source:45cbe363-eb05-4b96-b312-59f0bbfcdaab1652382195027 = config/fancymenu/music/Underclocked.ogg;EXTERNAL_LOCAL;35;0
   loop = true
   channel = master
-  x = 116
+  x = 56
   width = 50
   action = custom_layout_element:fancymenu_extension:audio_item
-  actionid = fe8e3f4b-4076-4353-b293-318b58f076f11652037657469
-  y = 86
+  actionid = 6acbe185-1832-4b3e-9aae-7391430b6f761654728487253
+  y = 53
   once_per_session = false
+  audio_source:0be64e7d-1517-4949-a1b5-708462b6df261654728492831 = config/fancymenu/music/Arpanauts.ogg;EXTERNAL_LOCAL;21;0
   height = 50
 }
 

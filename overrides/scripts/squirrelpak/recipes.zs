@@ -1,4 +1,4 @@
-craftingTable.addShapeless("scsp_av_book1", <item:patchouli:guide_book>.withTag({"patchouli:book": "patchouli:scsp_avp_guide" as string}), [<item:minecraft:paper>, <tag:items:minecraft:dirt>]);
+craftingTable.addShapeless("scsp_tec_book1", <item:patchouli:guide_book>.withTag({"patchouli:book": "patchouli:scsp_tec_guide" as string}), [<item:minecraft:paper>, <tag:items:minecraft:dirt>]);
 
 # Add way to get quartz
 craftingTable.addShapeless("scsp_quartz1", <item:minecraft:quartz> * 8, [<tag:items:forge:storage_blocks/quartz>, <item:minecraft:flint>]);
