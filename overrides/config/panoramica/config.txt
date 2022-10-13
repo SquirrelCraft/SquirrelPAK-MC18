@@ -1,4 +1,5 @@
 ##[general]
 
-I:screenshotdelay = '10';
+[The new system takes panorama screenshots without rotating the player, but is not compatible with mods like OptiFine and Iris.]
+B:use_new_system = 'false';
 I:panoramaresolution = '512';

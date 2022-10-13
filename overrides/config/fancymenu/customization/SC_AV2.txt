@@ -149,6 +149,74 @@ customization {
 }
 
 customization {
+  orientation = top-left
+  hidden = true
+  x = 286
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 642291ea-2d82-4d32-b0c0-9457226c9c201665687371718
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = d5956998-d589-4f16-ad52-2dbd0b65db7e1665687371722
+  y = 483
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 611
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = e4fe7a45-5896-4afc-a70c-6c01d86b07621665687371722
+  y = 505
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 523
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 8b04a429-0267-4e63-8d52-0a094cc3b3481665687371722
+  y = 231
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 283
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = efe2956e-a9a7-4365-94ab-93cb007b1b691665687371723
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 946baaad-de08-4f46-a375-72ff6d326f661665687371723
+  y = 0
+  height = 30
+}
+
+customization {
   orientation = element
   restartbackgroundanimations = true
   buttonaction = opencustomgui
@@ -300,7 +368,7 @@ customization {
   y = 47
   delayappearance = true
   alignment = centered
-  value = v1.18.2+1.2.1
+  value = v1.18.2+1.2.2
   delayappearanceeverytime = false
 }
 
