@@ -15,7 +15,7 @@ customization {
 
 customization {
   orientation = top-left
-  audio_source:45cbe363-eb05-4b96-b312-59f0bbfcdaab1652382195027 = config/fancymenu/music/Underclocked.ogg;EXTERNAL_LOCAL;35;0
+  audio_source:45cbe363-eb05-4b96-b312-59f0bbfcdaab1652382195027 = config/fancymenu/music/Prologue.ogg;EXTERNAL_LOCAL;15;0
   loop = true
   channel = master
   x = 116

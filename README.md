@@ -1,8 +1,8 @@
 ---
-SquirrelPAK AVP
+SquirrelPAK JMK
 ---
 
-SquirrelPAK Almost Vanilla PLUS!
+SquirrelPAK Just.. MeKanism
 
 For a list of mods check out the Wiki
 

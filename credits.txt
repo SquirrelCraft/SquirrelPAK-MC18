@@ -1,19 +1,19 @@
 ================================================================================
-SquirrelPAK AV - Almost Vanilla PLUS!
+SquirrelPAK JMK - Just.. MeKanism
 Credits
 ================================================================================
 
 Music Used in this PAK:
 
 Loading Screen
-  We're the Resistors - SquirrelCraft Edit
+  Underclocked - SquirrelCraft Edit
   Eric Skiff - We're the Resistors - Resistor Anthems
   Available at http://EricSkiff.com/music
   Licensed under Creative Commons: By Attribution 4.0
   https://creativecommons.org/licenses/by/4.0/
 
  Main Menu 
-  Eric Skiff - Underclocked (underunderclocked mix) - Resistor Anthems
+  Eric Skiff - Prologue - Resistor Anthems
   Available at http://EricSkiff.com/music
   Licensed under Creative Commons: By Attribution 4.0
   https://creativecommons.org/licenses/by/4.0/
@@ -24,8 +24,6 @@ Logo Credits:
  The SquirrelCraft logo created with textcraft
   https://textcraft.net
 
- Plus Logo
- https://pixabay.com/vectors/plus-punctuation-alphabet-abc-gold-146037/
 
  Network Squirrel skin inspired by the work by bigoodie
   https://www.minecraftskins.com/profile/4053405/bigoodie

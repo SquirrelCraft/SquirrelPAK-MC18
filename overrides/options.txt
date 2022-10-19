@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","Supplementaries Virtual Resourcepack","resources/scsp_logos"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","resources/scsp_logos","Supplementaries Generated Pack","file/FreshAnimations_v1.7.zip"]
+incompatibleResourcePacks:["file/FreshAnimations_v1.7.zip"]
 lastServer:
 lang:en_us
 soundDevice:
@@ -160,22 +160,33 @@ key_key.jei.previousRecipePage:key.keyboard.page.up
 key_key.jei.nextRecipePage:key.keyboard.page.down
 key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
+key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_placebo.toggleTrails:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.unknown
 key_Show comparison tooltip:key.keyboard.left.shift
 key_key.corpse.death_history:key.keyboard.u
-key_mapfrontiers.key.open_settings:key.keyboard.f8
 key_Open the Crash Utilities Screen:key.keyboard.u:CONTROL
 key_Copy Container Class:key.keyboard.unknown
 key_Show Slot Index Tooltips:key.keyboard.unknown
-key_key.curios.open.desc:key.keyboard.3:ALT
+key_key.mekanismadditions.voice:key.keyboard.u
+key_mapfrontiers.key.open_settings:key.keyboard.f8
 key_key.spyglass-improvements.use:key.keyboard.z:ALT
+key_key.curios.open.desc:key.keyboard.3:ALT
 key_framedblocks.key.update_cull:key.keyboard.f9
 key_key.ftbquests.quests:key.keyboard.semicolon
 key_servertabinfo.keys.show:key.keyboard.tab:CONTROL
+key_key.mekanism.mode:key.keyboard.n
+key_key.mekanism.head_mode:key.keyboard.v
+key_key.mekanism.chest_mode:key.keyboard.g
+key_key.mekanism.legs_mode:key.keyboard.j
+key_key.mekanism.feet_mode:key.keyboard.b
+key_key.mekanism.details:key.keyboard.left.shift
+key_key.mekanism.description:key.keyboard.n:SHIFT
+key_key.mekanism.module_tweaker:key.keyboard.backslash
+key_key.mekanism.key_boost:key.keyboard.left.control
+key_key.mekanism.key_hud:key.keyboard.h
 key_key.wallet:key.keyboard.2:ALT
-key_key.team_settings:key.keyboard.right.bracket
 key_key.tconstruct.helmet_interact:key.keyboard.z
 key_key.tconstruct.leggings_interact:key.keyboard.i
 key_key.toggleLiquids:key.keyboard.unknown
@@ -198,11 +209,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.1:ALT
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_key.configured.open_mod_list:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
