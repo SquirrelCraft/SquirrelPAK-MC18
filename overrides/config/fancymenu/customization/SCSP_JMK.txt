@@ -276,7 +276,7 @@ customization {
 customization {
   orientation = top-left
   shadow = true
-  x = 4
+  x = 3
   action = addtext
   actionid = 431bb47f-c7ac-46e6-a776-85c4383112331649893155210
   y = 3
@@ -368,7 +368,7 @@ customization {
   y = 44
   delayappearance = true
   alignment = centered
-  value = v1.18.2+0.1.0
+  value = v1.18.2+0.2.0
   delayappearanceeverytime = false
 }
 
@@ -388,5 +388,25 @@ customization {
   alignment = centered
   value = §aM§fe§aK§fanism
   delayappearanceeverytime = false
+}
+
+customization {
+  orientation = element
+  enable_scrolling = false
+  shadow = true
+  scale = 2.3
+  source = 0beta.txt
+  text_border = 0
+  case_mode = normal
+  source_mode = local
+  line_spacing = 1
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  x = -46
+  width = 190
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 88269183-cf48-4b91-88a4-ad2ab37e36081666221738680
+  y = -91
+  alignment = centered
+  height = 22
 }
 

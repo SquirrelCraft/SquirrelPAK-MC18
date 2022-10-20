@@ -126,7 +126,7 @@ customization {
 }
 
 customization {
-  audio_source:9b07a39d-a89c-466e-a824-2333ab8ece331665937845564 = config/drippyloadingscreen/music/Underclocked.ogg;EXTERNAL_LOCAL;45;0
+  audio_source:9b07a39d-a89c-466e-a824-2333ab8ece331665937845564 = config/drippyloadingscreen/music/Underclocked.ogg;EXTERNAL_LOCAL;10;0
   orientation = top-left
   loop = false
   channel = master
