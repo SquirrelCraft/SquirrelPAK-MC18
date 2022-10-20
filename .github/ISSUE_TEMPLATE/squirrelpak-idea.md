@@ -2,7 +2,7 @@
 name: SquirrelPAK Idea
 about: Suggest an idea for a new SquirrelPAK
 title: PAK Idea [Enter short description]
-labels: Needs Review
+labels: Needs Review, PAK Idea
 assignees: ''
 
 ---
